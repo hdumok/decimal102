@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "decimal 10,2",
   "main": "./build/Release/main.node",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bindings": "~1.2.1"
   },
