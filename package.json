@@ -1,0 +1,19 @@
+{
+  "name": "decimal102",
+  "version": "0.0.1",
+  "description": "decimal 10,2",
+  "main": "./build/Release/main.node",
+  "private": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  },
+  "scripts": {
+    "build": "node-gyp rebuild",
+    "test": "node test.js"
+  },
+  "gypfile": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdumok/decimal102.git"
+  }
+}
