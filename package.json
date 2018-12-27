@@ -1,8 +1,9 @@
 {
   "name": "decimal102",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "decimal 10,2",
-  "main": "./build/Release/main.node",
+  "main": "index.js",
+  "typings": "index.d.ts",
   "private": false,
   "dependencies": {
     "bindings": "~1.2.1"

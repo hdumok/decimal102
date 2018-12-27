@@ -1,0 +1,1 @@
+export = function (num: number | string): number {};
