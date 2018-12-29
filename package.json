@@ -1,6 +1,6 @@
 {
   "name": "decimal102",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "decimal 10,2",
   "main": "index.js",
   "typings": "index.d.ts",

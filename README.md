@@ -4,6 +4,13 @@
 * 超过精度范围的, 返回0
 * 无法解析的，返回0
 
+## Install
+
+```bash
+$ npm i decimal102 --save
+$ const decimal = require('decimal102')
+```
+
 ## Example
 ```
 console.log(decimal(12345678.22111)) 
